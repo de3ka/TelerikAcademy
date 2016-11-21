@@ -5,7 +5,7 @@ Homework: Loops
 
 ### Problem List
 
-1. [Numbers from 1 to N](./https://github.com/de3ka/TelerikAcademy/blob/master/Telerik%20-%20CSharp%20Basics%20-%20Homeworks/06.%20Loops/Loops-Homework/Problem%2001.%20NumbersFrom1ToN/README.md)
+1. [Numbers from 1 to N](https://github.com/de3ka/TelerikAcademy/blob/master/Telerik%20-%20CSharp%20Basics%20-%20Homeworks/06.%20Loops/Loops-Homework/Problem%2001.%20NumbersFrom1ToN/README.md)
 1. [Not Divisible Numbers](./Problem 02. NumbersNotDivisibleBy3And7\README.md)
 1. [MMSA(Min, Max, Sum, Average) of N Numbers](./Problem 03. MinMaxSumAndAverageOfNNumbers\README.md)
 1. [Print a Deck](./Problem 04. PrintADeck\README.md)
