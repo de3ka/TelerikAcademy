@@ -1,5 +1,0 @@
-D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\First-Larger-Than-Numbers\bin\Debug\First-Larger-Than-Numbers.exe.config
-D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\First-Larger-Than-Numbers\obj\Debug\First-Larger-Than-Numbers.exe
-D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\First-Larger-Than-Numbers\obj\Debug\First-Larger-Than-Numbers.pdb
-D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\First-Larger-Than-Numbers\bin\Debug\First-Larger-Than-Numbers.exe
-D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\First-Larger-Than-Numbers\bin\Debug\First-Larger-Than-Numbers.pdb
