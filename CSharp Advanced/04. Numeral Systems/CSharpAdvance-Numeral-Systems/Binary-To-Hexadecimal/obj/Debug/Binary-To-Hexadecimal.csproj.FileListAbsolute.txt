@@ -1,5 +1,0 @@
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-To-Hexadecimal\bin\Debug\Binary-To-Hexadecimal.exe.config
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-To-Hexadecimal\bin\Debug\Binary-To-Hexadecimal.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-To-Hexadecimal\bin\Debug\Binary-To-Hexadecimal.pdb
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-To-Hexadecimal\obj\Debug\Binary-To-Hexadecimal.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-To-Hexadecimal\obj\Debug\Binary-To-Hexadecimal.pdb

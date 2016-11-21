@@ -1,5 +1,0 @@
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\One-System-To-Another\bin\Debug\One-System-To-Another.exe.config
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\One-System-To-Another\bin\Debug\One-System-To-Another.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\One-System-To-Another\bin\Debug\One-System-To-Another.pdb
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\One-System-To-Another\obj\Debug\One-System-To-Another.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\One-System-To-Another\obj\Debug\One-System-To-Another.pdb

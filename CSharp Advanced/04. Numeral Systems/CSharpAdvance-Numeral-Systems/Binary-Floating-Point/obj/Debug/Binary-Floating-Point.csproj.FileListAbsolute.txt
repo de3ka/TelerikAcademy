@@ -1,5 +1,0 @@
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-Floating-Point\bin\Debug\Binary-Floating-Point.exe.config
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-Floating-Point\bin\Debug\Binary-Floating-Point.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-Floating-Point\bin\Debug\Binary-Floating-Point.pdb
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-Floating-Point\obj\Debug\Binary-Floating-Point.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-Floating-Point\obj\Debug\Binary-Floating-Point.pdb
