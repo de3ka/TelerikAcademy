@@ -3,3 +3,9 @@ c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\App
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Appearance-Count\bin\Debug\Appearance-Count.pdb
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Appearance-Count\obj\Debug\Appearance-Count.exe
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Appearance-Count\obj\Debug\Appearance-Count.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Appearance-Count\bin\Debug\Appearance-Count.exe.config
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Appearance-Count\obj\Debug\Appearance-Count.exe
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Appearance-Count\obj\Debug\Appearance-Count.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Appearance-Count\bin\Debug\Appearance-Count.exe
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Appearance-Count\bin\Debug\Appearance-Count.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Appearance-Count\obj\Debug\Appearance-Count.csprojResolveAssemblyReference.cache

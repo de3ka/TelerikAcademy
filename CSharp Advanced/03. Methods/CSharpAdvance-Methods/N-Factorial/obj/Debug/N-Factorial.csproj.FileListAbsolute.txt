@@ -3,3 +3,8 @@ c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\N-F
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\N-Factorial\bin\Debug\N-Factorial.pdb
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\N-Factorial\obj\Debug\N-Factorial.exe
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\N-Factorial\obj\Debug\N-Factorial.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\N-Factorial\bin\Debug\N-Factorial.exe.config
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\N-Factorial\obj\Debug\N-Factorial.exe
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\N-Factorial\obj\Debug\N-Factorial.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\N-Factorial\bin\Debug\N-Factorial.exe
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\N-Factorial\bin\Debug\N-Factorial.pdb

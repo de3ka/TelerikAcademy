@@ -4,3 +4,9 @@ c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Lar
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Larger-Than-Neighbours\obj\Debug\Larger-Than-Neighbours.csprojResolveAssemblyReference.cache
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Larger-Than-Neighbours\obj\Debug\Larger-Than-Neighbours.exe
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Larger-Than-Neighbours\obj\Debug\Larger-Than-Neighbours.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Larger-Than-Neighbours\bin\Debug\Larger-Than-Neighbours.exe.config
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Larger-Than-Neighbours\obj\Debug\Larger-Than-Neighbours.exe
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Larger-Than-Neighbours\obj\Debug\Larger-Than-Neighbours.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Larger-Than-Neighbours\bin\Debug\Larger-Than-Neighbours.exe
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Larger-Than-Neighbours\bin\Debug\Larger-Than-Neighbours.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Larger-Than-Neighbours\obj\Debug\Larger-Than-Neighbours.csprojResolveAssemblyReference.cache

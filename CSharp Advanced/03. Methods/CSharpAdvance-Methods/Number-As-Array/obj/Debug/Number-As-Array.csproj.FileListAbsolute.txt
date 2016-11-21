@@ -4,3 +4,9 @@ C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Methods\Num
 C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Methods\Number-As-Array\obj\Debug\Number-As-Array.csprojResolveAssemblyReference.cache
 C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Methods\Number-As-Array\obj\Debug\Number-As-Array.exe
 C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Methods\Number-As-Array\obj\Debug\Number-As-Array.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Number-As-Array\bin\Debug\Number-As-Array.exe.config
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Number-As-Array\obj\Debug\Number-As-Array.exe
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Number-As-Array\obj\Debug\Number-As-Array.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Number-As-Array\bin\Debug\Number-As-Array.exe
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Number-As-Array\bin\Debug\Number-As-Array.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Number-As-Array\obj\Debug\Number-As-Array.csprojResolveAssemblyReference.cache

@@ -1,23 +1,22 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Reverse_Number
 {
-    class Program
+    public class ReverseNumber
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             string number = Console.ReadLine();
-            string result = reverseNumber(number);
+            string result = PerformReverseNumber(number);
+
             Console.WriteLine(result);
         }
-        static string reverseNumber(string num)
+
+        private static string PerformReverseNumber(string num)
         {
             char[] charArray = num.ToCharArray();
             Array.Reverse(charArray);
+
             return new string(charArray);
         }
     }

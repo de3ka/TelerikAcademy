@@ -4,3 +4,9 @@ c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Say
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Say-Hello\obj\Debug\Say-Hello.csprojResolveAssemblyReference.cache
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Say-Hello\obj\Debug\Say-Hello.exe
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Say-Hello\obj\Debug\Say-Hello.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Say-Hello\bin\Debug\Say-Hello.exe.config
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Say-Hello\obj\Debug\Say-Hello.exe
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Say-Hello\obj\Debug\Say-Hello.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Say-Hello\bin\Debug\Say-Hello.exe
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Say-Hello\bin\Debug\Say-Hello.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Say-Hello\obj\Debug\Say-Hello.csprojResolveAssemblyReference.cache

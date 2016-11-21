@@ -3,3 +3,9 @@ c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Eng
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\English-Digit\bin\Debug\English-Digit.pdb
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\English-Digit\obj\Debug\English-Digit.exe
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\English-Digit\obj\Debug\English-Digit.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\English-Digit\bin\Debug\English-Digit.exe.config
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\English-Digit\obj\Debug\English-Digit.exe
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\English-Digit\obj\Debug\English-Digit.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\English-Digit\bin\Debug\English-Digit.exe
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\English-Digit\bin\Debug\English-Digit.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\English-Digit\obj\Debug\English-Digit.csprojResolveAssemblyReference.cache

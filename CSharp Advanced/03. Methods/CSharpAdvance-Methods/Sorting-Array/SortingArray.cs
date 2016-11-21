@@ -1,25 +1,24 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Sorting_Array
 {
-    class Program
+    public class SortingArray
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             int size = int.Parse(Console.ReadLine());
+            int[] arr = new int[size];
 
             string str = Console.ReadLine();
             string[] str1 = str.Split(' ');
-            int[] arr = new int[size];
+
             for (int i = 0; i < arr.Length; i++)
             {
                 arr[i] = Int32.Parse(str1[i]);
             }
-            sortArray(arr);
+
+            PerformSortArray(arr);
+
             for (int i = 0; i < arr.Length; i++)
             {
                 if (i == arr.Length - 1)
@@ -32,7 +31,9 @@ namespace Sorting_Array
                 }
             }
         }
-        static void sortArray(int[] arr) {
+
+        private static void PerformSortArray(int[] arr)
+        {
             for (int i = 0; i < arr.Length; i++)
             {
                 for (int j = 0; j < arr.Length - 1; j++)

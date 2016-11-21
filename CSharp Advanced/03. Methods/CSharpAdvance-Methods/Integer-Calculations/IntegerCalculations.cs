@@ -1,70 +1,86 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Numerics;
 
 namespace Integer_Calculations
 {
-    class Program
+    public class IntegerCalculations
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            string nums = Console.ReadLine();
-            string[] numbers = nums.Split(' ');
-            int[] num = new int[numbers.Length];
-            for (int i = 0; i < num.Length; i++)
+            string input = Console.ReadLine();
+            string[] numbersCharArr = input.Split(' ');
+
+            int[] numbers = new int[numbersCharArr.Length];
+
+            for (int i = 0; i < numbers.Length; i++)
             {
-                num[i] = Int32.Parse(numbers[i]);
+                numbers[i] = Int32.Parse(numbersCharArr[i]);
             }
-            int max = returnMax(num);
-            BigInteger min = returnMin(num);
-            double average = returnAverage(num);
-            BigInteger sum = returnSum(num);
-            BigInteger product = returnProduct(num);
+
+            int max = ReturnMax(numbers);
+
+            BigInteger min = ReturnMin(numbers);
+            double average = ReturnAverage(numbers);
+            BigInteger sum = ReturnSum(numbers);
+            BigInteger product = ReturnProduct(numbers);
+
             Console.WriteLine(max);
             Console.WriteLine(min);
-            Console.WriteLine("{0:F2}",average);
+            Console.WriteLine("{0:F2}", average);
             Console.WriteLine(sum);
             Console.WriteLine(product);
-
-
         }
-        static int returnMax(int[] arr)
+
+        private static int ReturnMax(int[] arr)
         {
             Array.Sort(arr);
+
             return arr[0];
         }
 
-        static int returnMin(int[] arr) {
+        private static int ReturnMin(int[] arr)
+        {
             Array.Sort(arr);
             Array.Reverse(arr);
+
             return arr[0];
         }
-        static double returnAverage(int[] arr){
+
+        private static double ReturnAverage(int[] arr)
+        {
             double sum = 0;
+
             for (int i = 0; i < arr.Length; i++)
             {
                 sum += arr[i];
             }
+
             double average = sum / arr.Length;
+
             return average;
         }
-        static int returnSum(int[] arr) {
+
+        private static int ReturnSum(int[] arr)
+        {
             int sum = 0;
+
             for (int i = 0; i < arr.Length; i++)
             {
                 sum += arr[i];
             }
+
             return sum;
         }
-        static BigInteger returnProduct(int[] arr) {
+
+        private static BigInteger ReturnProduct(int[] arr)
+        {
             BigInteger product = 1;
+
             for (int i = 0; i < arr.Length; i++)
             {
                 product *= arr[i];
             }
+
             return product;
         }
     }

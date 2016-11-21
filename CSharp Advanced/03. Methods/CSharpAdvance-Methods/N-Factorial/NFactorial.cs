@@ -1,22 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace N_Factorial
 {
-    class Program
+    public class NFactorial
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             int number = int.Parse(Console.ReadLine());
             string factorial = Calculate(number);
             Console.WriteLine(factorial);
-
         }
 
-        static string Calculate(int n)
+        private static string Calculate(int n)
         {
             string finalResult = "1";
 
@@ -24,10 +21,11 @@ namespace N_Factorial
             {
                 finalResult = Multiply(finalResult, i);
             }
+
             return finalResult;
         }
 
-        static string Multiply(string numberOne, int numberTwo)
+        private static string Multiply(string numberOne, int numberTwo)
         {
             List<int> digits = GetDigits(numberOne);
 
@@ -55,11 +53,13 @@ namespace N_Factorial
             {
                 sb.Insert(0, number);
             }
+
             string endResult = Convert.ToString(sb);
+
             return endResult;
         }
 
-        static List<int> GetDigits(string number)
+        private static List<int> GetDigits(string number)
         {
             List<int> digits = new List<int>();
 
@@ -67,6 +67,7 @@ namespace N_Factorial
             {
                 digits.Add(int.Parse(Convert.ToString(number[i])));
             }
+
             return digits;
         }
     }

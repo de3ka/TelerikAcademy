@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Say-Hello", "Say-Hello\Say-Hello.csproj", "{05A14251-DFCF-4EB9-AEFA-99A695FA5514}"
 EndProject
@@ -25,13 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-Factorial", "N-Factorial\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adding-Polynomials", "Adding-Polynomials\Adding-Polynomials.csproj", "{4F28C644-4A1F-40DC-BBE4-6B9201498380}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solve-Tasks", "Solve-Tasks\Solve-Tasks.csproj", "{A18D362D-4BFA-4FCB-A222-5C9B8DC711CF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Substracting-Polynomials", "Substracting-Polynomials\Substracting-Polynomials.csproj", "{383AE521-232A-46F7-8FC4-B36E50EE6B3C}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integer-Calculations", "Integer-Calculations\Integer-Calculations.csproj", "{C5BC45BC-E19E-42BF-A9AE-0DE4CDA5A458}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Larger-Than-Neighbours2", "Larger-Than-Neighbours2\Larger-Than-Neighbours2.csproj", "{4EB66B13-AF6B-46F8-AA00-631F11267F30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,22 +77,10 @@ Global
 		{4F28C644-4A1F-40DC-BBE4-6B9201498380}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F28C644-4A1F-40DC-BBE4-6B9201498380}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F28C644-4A1F-40DC-BBE4-6B9201498380}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A18D362D-4BFA-4FCB-A222-5C9B8DC711CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A18D362D-4BFA-4FCB-A222-5C9B8DC711CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A18D362D-4BFA-4FCB-A222-5C9B8DC711CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A18D362D-4BFA-4FCB-A222-5C9B8DC711CF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{383AE521-232A-46F7-8FC4-B36E50EE6B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{383AE521-232A-46F7-8FC4-B36E50EE6B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{383AE521-232A-46F7-8FC4-B36E50EE6B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{383AE521-232A-46F7-8FC4-B36E50EE6B3C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C5BC45BC-E19E-42BF-A9AE-0DE4CDA5A458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C5BC45BC-E19E-42BF-A9AE-0DE4CDA5A458}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5BC45BC-E19E-42BF-A9AE-0DE4CDA5A458}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5BC45BC-E19E-42BF-A9AE-0DE4CDA5A458}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4EB66B13-AF6B-46F8-AA00-631F11267F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4EB66B13-AF6B-46F8-AA00-631F11267F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4EB66B13-AF6B-46F8-AA00-631F11267F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4EB66B13-AF6B-46F8-AA00-631F11267F30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

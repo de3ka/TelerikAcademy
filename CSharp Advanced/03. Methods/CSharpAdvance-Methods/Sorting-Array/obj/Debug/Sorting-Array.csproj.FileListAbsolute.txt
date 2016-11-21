@@ -4,3 +4,9 @@ c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Sor
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Sorting-Array\obj\Debug\Sorting-Array.csprojResolveAssemblyReference.cache
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Sorting-Array\obj\Debug\Sorting-Array.exe
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Sorting-Array\obj\Debug\Sorting-Array.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Sorting-Array\bin\Debug\Sorting-Array.exe.config
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Sorting-Array\obj\Debug\Sorting-Array.exe
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Sorting-Array\obj\Debug\Sorting-Array.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Sorting-Array\bin\Debug\Sorting-Array.exe
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Sorting-Array\bin\Debug\Sorting-Array.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Sorting-Array\obj\Debug\Sorting-Array.csprojResolveAssemblyReference.cache

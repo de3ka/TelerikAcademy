@@ -4,3 +4,9 @@ c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Int
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Integer-Calculations\obj\Debug\Integer-Calculations.csprojResolveAssemblyReference.cache
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Integer-Calculations\obj\Debug\Integer-Calculations.exe
 c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Integer-Calculations\obj\Debug\Integer-Calculations.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Integer-Calculations\bin\Debug\Integer-Calculations.exe.config
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Integer-Calculations\obj\Debug\Integer-Calculations.exe
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Integer-Calculations\obj\Debug\Integer-Calculations.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Integer-Calculations\bin\Debug\Integer-Calculations.exe
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Integer-Calculations\bin\Debug\Integer-Calculations.pdb
+D:\Local Rep\CSharp Advanced\03. Methods\CSharpAdvance-Methods\Integer-Calculations\obj\Debug\Integer-Calculations.csprojResolveAssemblyReference.cache
