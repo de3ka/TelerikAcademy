@@ -1,0 +1,5 @@
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-Short\bin\Debug\Binary-Short.exe.config
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-Short\bin\Debug\Binary-Short.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-Short\bin\Debug\Binary-Short.pdb
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-Short\obj\Debug\Binary-Short.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-Short\obj\Debug\Binary-Short.pdb

@@ -1,0 +1,5 @@
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\First-Larger-Than-Numbers\bin\Debug\First-Larger-Than-Numbers.exe.config
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\First-Larger-Than-Numbers\bin\Debug\First-Larger-Than-Numbers.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\First-Larger-Than-Numbers\bin\Debug\First-Larger-Than-Numbers.pdb
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\First-Larger-Than-Numbers\obj\Debug\First-Larger-Than-Numbers.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\First-Larger-Than-Numbers\obj\Debug\First-Larger-Than-Numbers.pdb

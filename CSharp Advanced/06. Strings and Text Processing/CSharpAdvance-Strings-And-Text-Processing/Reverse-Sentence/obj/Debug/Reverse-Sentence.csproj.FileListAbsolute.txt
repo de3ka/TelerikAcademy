@@ -1,0 +1,6 @@
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Reverse-Sentence\bin\Debug\Reverse-Sentence.exe.config
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Reverse-Sentence\bin\Debug\Reverse-Sentence.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Reverse-Sentence\bin\Debug\Reverse-Sentence.pdb
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Reverse-Sentence\obj\Debug\Reverse-Sentence.csprojResolveAssemblyReference.cache
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Reverse-Sentence\obj\Debug\Reverse-Sentence.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Reverse-Sentence\obj\Debug\Reverse-Sentence.pdb

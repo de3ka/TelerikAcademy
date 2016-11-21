@@ -1,0 +1,6 @@
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Unicode-Characters\bin\Debug\Unicode-Characters.exe.config
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Unicode-Characters\bin\Debug\Unicode-Characters.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Unicode-Characters\bin\Debug\Unicode-Characters.pdb
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Unicode-Characters\obj\Debug\Unicode-Characters.csprojResolveAssemblyReference.cache
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Unicode-Characters\obj\Debug\Unicode-Characters.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Unicode-Characters\obj\Debug\Unicode-Characters.pdb

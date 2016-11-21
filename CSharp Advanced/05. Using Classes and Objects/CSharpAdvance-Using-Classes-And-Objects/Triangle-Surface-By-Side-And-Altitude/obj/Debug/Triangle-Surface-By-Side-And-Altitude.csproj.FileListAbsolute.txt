@@ -1,0 +1,5 @@
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Using-Classes-And-Objects\Triangle-Surface-By-Side-And-Altitude\bin\Debug\Triangle-Surface-By-Side-And-Altitude.exe.config
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Using-Classes-And-Objects\Triangle-Surface-By-Side-And-Altitude\bin\Debug\Triangle-Surface-By-Side-And-Altitude.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Using-Classes-And-Objects\Triangle-Surface-By-Side-And-Altitude\bin\Debug\Triangle-Surface-By-Side-And-Altitude.pdb
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Using-Classes-And-Objects\Triangle-Surface-By-Side-And-Altitude\obj\Debug\Triangle-Surface-By-Side-And-Altitude.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Using-Classes-And-Objects\Triangle-Surface-By-Side-And-Altitude\obj\Debug\Triangle-Surface-By-Side-And-Altitude.pdb

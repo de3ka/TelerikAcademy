@@ -1,0 +1,5 @@
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Decimal-To-Hexadecimal\bin\Debug\Decimal-To-Hexadecimal.exe.config
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Decimal-To-Hexadecimal\bin\Debug\Decimal-To-Hexadecimal.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Decimal-To-Hexadecimal\bin\Debug\Decimal-To-Hexadecimal.pdb
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Decimal-To-Hexadecimal\obj\Debug\Decimal-To-Hexadecimal.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Decimal-To-Hexadecimal\obj\Debug\Decimal-To-Hexadecimal.pdb

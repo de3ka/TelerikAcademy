@@ -1,0 +1,6 @@
+C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Numeral-Systems\One-System-To-Another2\bin\Debug\One-System-To-Another2.exe.config
+C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Numeral-Systems\One-System-To-Another2\bin\Debug\One-System-To-Another2.exe
+C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Numeral-Systems\One-System-To-Another2\bin\Debug\One-System-To-Another2.pdb
+C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Numeral-Systems\One-System-To-Another2\obj\Debug\One-System-To-Another2.csprojResolveAssemblyReference.cache
+C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Numeral-Systems\One-System-To-Another2\obj\Debug\One-System-To-Another2.exe
+C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Numeral-Systems\One-System-To-Another2\obj\Debug\One-System-To-Another2.pdb

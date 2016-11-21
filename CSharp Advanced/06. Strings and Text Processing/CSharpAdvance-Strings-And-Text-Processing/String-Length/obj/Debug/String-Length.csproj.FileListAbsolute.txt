@@ -1,0 +1,5 @@
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\String-Length\bin\Debug\String-Length.exe.config
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\String-Length\bin\Debug\String-Length.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\String-Length\bin\Debug\String-Length.pdb
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\String-Length\obj\Debug\String-Length.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\String-Length\obj\Debug\String-Length.pdb

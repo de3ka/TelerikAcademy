@@ -1,0 +1,5 @@
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Correct-Brackets\bin\Debug\Correct-Brackets.exe.config
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Correct-Brackets\bin\Debug\Correct-Brackets.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Correct-Brackets\bin\Debug\Correct-Brackets.pdb
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Correct-Brackets\obj\Debug\Correct-Brackets.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Correct-Brackets\obj\Debug\Correct-Brackets.pdb

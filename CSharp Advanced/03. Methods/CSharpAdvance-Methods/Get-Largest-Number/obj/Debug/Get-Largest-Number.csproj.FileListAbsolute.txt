@@ -1,0 +1,6 @@
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Get-Largest-Number\bin\Debug\Get-Largest-Number.exe.config
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Get-Largest-Number\bin\Debug\Get-Largest-Number.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Get-Largest-Number\bin\Debug\Get-Largest-Number.pdb
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Get-Largest-Number\obj\Debug\Get-Largest-Number.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Get-Largest-Number\obj\Debug\Get-Largest-Number.pdb
+C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Methods\Get-Largest-Number\obj\Debug\Get-Largest-Number.csprojResolveAssemblyReference.cache

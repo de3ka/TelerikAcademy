@@ -1,0 +1,6 @@
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Replace-Tags\bin\Debug\Replace-Tags.exe.config
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Replace-Tags\bin\Debug\Replace-Tags.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Replace-Tags\bin\Debug\Replace-Tags.pdb
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Replace-Tags\obj\Debug\Replace-Tags.csprojResolveAssemblyReference.cache
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Replace-Tags\obj\Debug\Replace-Tags.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Replace-Tags\obj\Debug\Replace-Tags.pdb

@@ -1,0 +1,6 @@
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Larger-Than-Neighbours\bin\Debug\Larger-Than-Neighbours.exe.config
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Larger-Than-Neighbours\bin\Debug\Larger-Than-Neighbours.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Larger-Than-Neighbours\bin\Debug\Larger-Than-Neighbours.pdb
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Larger-Than-Neighbours\obj\Debug\Larger-Than-Neighbours.csprojResolveAssemblyReference.cache
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Larger-Than-Neighbours\obj\Debug\Larger-Than-Neighbours.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Methods\Larger-Than-Neighbours\obj\Debug\Larger-Than-Neighbours.pdb

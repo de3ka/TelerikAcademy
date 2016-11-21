@@ -1,0 +1,5 @@
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-To-Decimal\bin\Debug\Binary-To-Decimal.exe.config
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-To-Decimal\bin\Debug\Binary-To-Decimal.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-To-Decimal\bin\Debug\Binary-To-Decimal.pdb
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-To-Decimal\obj\Debug\Binary-To-Decimal.exe
+c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-To-Decimal\obj\Debug\Binary-To-Decimal.pdb

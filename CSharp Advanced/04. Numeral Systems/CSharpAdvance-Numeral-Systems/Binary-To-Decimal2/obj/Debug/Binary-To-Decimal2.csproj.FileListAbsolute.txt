@@ -1,0 +1,6 @@
+C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-To-Decimal2\bin\Debug\Binary-To-Decimal2.exe.config
+C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-To-Decimal2\bin\Debug\Binary-To-Decimal2.exe
+C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-To-Decimal2\bin\Debug\Binary-To-Decimal2.pdb
+C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-To-Decimal2\obj\Debug\Binary-To-Decimal2.csprojResolveAssemblyReference.cache
+C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-To-Decimal2\obj\Debug\Binary-To-Decimal2.exe
+C:\Users\de3kata\Documents\Visual Studio 2013\Projects\CSharpAdvance-Numeral-Systems\Binary-To-Decimal2\obj\Debug\Binary-To-Decimal2.pdb
