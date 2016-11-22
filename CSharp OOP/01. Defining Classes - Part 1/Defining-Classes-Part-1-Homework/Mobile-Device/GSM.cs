@@ -213,8 +213,8 @@ namespace Mobile_Device
             {
                 info.Add("---Battery---\n" + this.Battery);
             }
-            return string.Join(Environment.NewLine, info);
 
+            return string.Join(Environment.NewLine, info);
         }
     }
 }
