@@ -1,1 +1,0 @@
-to view .md file online go to https://stackedit.io/ and drag and drop the .md file
