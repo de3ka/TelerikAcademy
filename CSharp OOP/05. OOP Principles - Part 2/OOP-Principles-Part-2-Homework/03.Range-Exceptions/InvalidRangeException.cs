@@ -1,18 +1,19 @@
-﻿namespace _03.Range_Exceptions
-{
-    using System;
+﻿using System;
 
+namespace _03.Range_Exceptions
+{
     public class InvalidRangeException<T> : ApplicationException
     {
         private T minLimit;
         private T maxLimit;
 
-        public InvalidRangeException(string message,T minLimit, T maxLimit)
+        public InvalidRangeException(string message, T minLimit, T maxLimit)
             : base(message)
         {
             this.MinLimit = minLimit;
             this.MaxLimit = maxLimit;
         }
+
         public T MinLimit
         {
             get
@@ -24,6 +25,7 @@
                 this.minLimit = value;
             }
         }
+
         public T MaxLimit
         {
             get
@@ -35,6 +37,5 @@
                 this.maxLimit = value;
             }
         }
-        
     }
 }

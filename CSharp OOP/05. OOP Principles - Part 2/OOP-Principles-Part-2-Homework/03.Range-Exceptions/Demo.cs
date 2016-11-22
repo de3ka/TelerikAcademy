@@ -1,12 +1,13 @@
-﻿namespace _03.Range_Exceptions
-{
-    using System;
+﻿using System;
 
-    class Demo
+namespace _03.Range_Exceptions
+{
+    public class Demo
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("-----Testing Custom Exception with DateTime-----\n");
+
             var minLimit = DateTime.ParseExact("01-01-1980", "dd-MM-yyyy", null);
             var maxLimit = DateTime.ParseExact("31-12-2013", "dd-MM-yyyy", null);
 
@@ -15,6 +16,7 @@
                     DateTime.ParseExact("31-12-2013", "dd-MM-yyyy", null));
 
             var test = DateTime.Parse("1.1.1975");
+
             try
             {
                 Validate.ValidateDataInRange(test, minLimit, maxLimit);
@@ -25,6 +27,7 @@
             }
 
             Console.WriteLine("\n-----Testing Custom Exception with int-----\n");
+
             int newMinLimit = 100;
             int newMaxLimit = 1000;
 
@@ -32,6 +35,7 @@
                     newMinLimit, newMaxLimit);
 
             var newTest = 5;
+
             try
             {
                 Validate.ValidateDataInRange(newTest, newMinLimit, newMaxLimit);

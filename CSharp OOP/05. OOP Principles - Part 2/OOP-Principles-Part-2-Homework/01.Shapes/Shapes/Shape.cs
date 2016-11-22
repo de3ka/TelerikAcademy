@@ -1,7 +1,7 @@
-﻿namespace _01.Shapes.Shapes
-{
-    using System;
+﻿using System;
 
+namespace _01.Shapes.Shapes
+{
     public abstract class Shape
     {
         private double width;
@@ -12,6 +12,7 @@
             this.Width = width;
             this.Height = height;
         }
+
         public double Width
         {
             get
@@ -27,6 +28,7 @@
                 this.width = value;
             }
         }
+
         public double Height
         {
             get
@@ -42,7 +44,7 @@
                 this.height = value;
             }
         }
-        public abstract double CalculateSurface();
 
+        public abstract double CalculateSurface();
     }
 }

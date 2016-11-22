@@ -1,8 +1,8 @@
-﻿namespace _01.Shapes
+﻿using System;
+using _01.Shapes.Shapes;
+
+namespace _01.Shapes
 {
-    using _01.Shapes.Shapes;
-    using System;
-    using System.Collections.Generic;
     public class Demo
     {
         static void Main(string[] args)

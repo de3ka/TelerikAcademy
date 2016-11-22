@@ -1,7 +1,6 @@
-﻿
-namespace _02.Bank_Accounts.GlobalConstants
+﻿namespace _02.Bank_Accounts.GlobalConstants
 {
-    static class GlobalConstants
+    public static class Constants
     {
         public const int MIN_BALANCE = 0;
         public const int MAX_BALANCE = 1000;

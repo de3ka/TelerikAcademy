@@ -1,8 +1,8 @@
-﻿namespace _02.Bank_Accounts.BankModel
-{
-    using _02.Bank_Accounts.AccountModels.Abstraction;
-    using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using _02.Bank_Accounts.AccountModels.Abstraction;
 
+namespace _02.Bank_Accounts.BankModel
+{
     public class Bank
     {
         private string name;

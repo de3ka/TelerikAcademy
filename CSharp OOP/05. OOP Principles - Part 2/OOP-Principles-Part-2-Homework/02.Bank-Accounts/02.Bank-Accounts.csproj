@@ -51,7 +51,7 @@
     <Compile Include="CustomerModels\Individual.cs" />
     <Compile Include="Demo.cs" />
     <Compile Include="Enumerations\CustomerType.cs" />
-    <Compile Include="GlobalConstants\GlobalConstants.cs" />
+    <Compile Include="GlobalConstants\Constants.cs" />
     <Compile Include="Interfaces\IDeposit.cs" />
     <Compile Include="Interfaces\IWithdraw.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

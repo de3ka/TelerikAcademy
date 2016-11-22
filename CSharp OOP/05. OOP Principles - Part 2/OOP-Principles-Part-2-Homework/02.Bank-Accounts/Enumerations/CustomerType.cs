@@ -1,5 +1,4 @@
-﻿
-namespace _02.Bank_Accounts.Enumerations
+﻿namespace _02.Bank_Accounts.Enumerations
 {
     public enum CustomerType
     {
