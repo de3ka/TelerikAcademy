@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+<studentsystem>
+  <student>
+    <name>Bruce Wayne</name>
+    <sex>Male</sex>
+    <birthdate>24.10.1978</birthdate>
+    <phone>0881234562</phone>
+    <email>wayne@gmail.com</email>
+    <course>Databases</course>
+    <specialty>Software Engineer</specialty>
+    <facultynumber>387256</facultynumber>
+    <enrollments>
+      <enrollment>
+        <date>03.03.2016</date>
+        <examscore>100</examscore>
+      </enrollment>
+    </enrollments>
+    <exams>
+      <exam>
+        <examname>Unit Testing</examname>
+        <tutorname>Martin Veshev</tutorname>
+        <score>100</score>
+      </exam>
+      <exam>
+        <examname>JS-OOP</examname>
+        <tutorname>Doncho Minkov</tutorname>
+        <score>100</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>John Doe</name>
+    <sex>Male</sex>
+    <birthdate>24.04.1989</birthdate>
+    <phone>0882233445</phone>
+    <email>doe@gmail.com</email>
+    <course>QA</course>
+    <specialty>Software Engineer</specialty>
+    <facultynumber>126246</facultynumber>
+    <exams>
+      <exam>
+        <examname>C# Advanced</examname>
+        <tutorname>Martin Kolev</tutorname>
+        <score>100</score>
+      </exam>
+      <exam>
+        <examname>C# OOP</examname>
+        <tutorname>Martin Veshev</tutorname>
+        <score>100</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>Black Widow</name>
+    <sex>Female</sex>
+    <birthdate>05.05.1980</birthdate>
+    <phone>05577889966</phone>
+    <email>widow@gmail.com</email>
+    <course>WEB</course>
+    <specialty>Software Engineer</specialty>
+    <facultynumber>123456</facultynumber>
+    <exams>
+      <exam>
+        <examname>JSAPPS</examname>
+        <tutorname>Doncho Minkov</tutorname>
+        <score>100</score>
+      </exam>
+      <exam>
+        <examname>JS Basics</examname>
+        <tutorname>Doncho Minkov</tutorname>
+        <score>100</score>
+      </exam>
+    </exams>
+  </student>
+</studentsystem>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='input-files/catalogue-style.xslt'?>
+<catalogue>
+  <album>
+    <name>News Of The World</name>
+    <artist>Queen</artist>
+    <year>1977</year>
+    <producer>Mike Stone</producer>
+    <price>15.00</price>
+    <songs>
+      <song title="We Will Rock You" length="2:01" />
+      <song title="We Are the Champions" length="2:59" />
+      <song title="Sheer Heart Attack" length="3:26" />
+      <song title="All Dead, All Dead" length="3:10" />
+      <song title="Spread Your Wings" length="4:34" />
+      <song title="Fight from the Inside" length="3:03" />
+      <song title="Get Down, Make Love" length="3:51" />
+      <song title="Sleeping on the Sidewalk" length="3:06" />
+      <song title="Who Needs You" length="3:05" />
+      <song title="It's Late" length="6:26" />
+      <song title="My Melancholy Blues" length="3:29" />
+    </songs>
+  </album>
+  <album>
+    <name>Jazz</name>
+    <artist>Queen</artist>
+    <year>1978</year>
+    <producer>Roy Thomas Baker</producer>
+    <price>19.99</price>
+    <songs>
+      <song title="Mustapha" length="3:01" />
+      <song title="Fat Bottomed Girls" length="4:16" />
+      <song title="Jealousy" length="3:14" />
+      <song title="Bicycle Race" length="3:01" />
+      <song title="If You Can't Beat Them" length="4:15" />
+      <song title="Let Me Entertain You" length="3:01" />
+      <song title="Dead on Time" length="3:23" />
+      <song title="In Only Seven Days" length="2:30" />
+      <song title="Dreamer's Ball" length="3:30" />
+      <song title="Fun It" length="3:29" />
+      <song title="Leaving Home Ain't Easy" length="3:15" />
+      <song title="Don't Stop Me Now" length="3:29" />
+      <song title="More of That Jazz" length="4:16" />
+    </songs>
+  </album>
+  <album>
+    <name>Midnight Boom</name>
+    <artist>The Kills</artist>
+    <year>2008</year>
+    <producer>XXXChange</producer>
+    <price>19.99</price>
+    <songs>
+      <song title="U.R.A. Fever" length="2:16" />
+      <song title="Cheap and Cheerful" length="2:26" />
+      <song title="Tape Song" length="3:35" />
+      <song title="Getting Down" length="2:55" />
+      <song title="Last Day of Magic" length="3:51" />
+      <song title="Hook and Line" length="2:03" />
+      <song title="Black Balloon" length="3:46" />
+      <song title="M.E.X.I.C.O." length="1:37" />
+      <song title="Sour Cherry" length="3:07" />
+      <song title="Alphabet Pony" length="1:45" />
+      <song title="What New York Used to Be" length="3:15" />
+      <song title="Goodnight Bad Morning" length="3:52" />
+      <song title="Night Train" length="3:04" />
+    </songs>
+  </album>
+</catalogue>

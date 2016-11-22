@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>News Of The World</name>
+    <artist>Queen</artist>
+  </album>
+  <album>
+    <name>Jazz</name>
+    <artist>Queen</artist>
+  </album>
+  <album>
+    <name>Midnight Boom</name>
+    <artist>The Kills</artist>
+  </album>
+  <album>
+    <name>Howl</name>
+    <artist>Black Rebel Motorcycle Club</artist>
+  </album>
+  <album>
+    <name>B.R.M.C.</name>
+    <artist>Black Rebel Motorcycle Club</artist>
+  </album>
+</albums>

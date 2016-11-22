@@ -1,0 +1,12 @@
+Bruce Wayne
+Gotham City, "The Batcave"
+0887551254
+Doctor Doom
+Latveria, "The Castle Of Doom"
+0557512287
+Tony Stark
+New York, "Stark Tower"
+0645789231
+Professor Xavier
+Westchester County, "X-Mansion"
+0578214562

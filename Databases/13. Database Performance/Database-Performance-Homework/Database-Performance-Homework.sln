@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsDB.Data", "LogsDB.Data\LogsDB.Data.csproj", "{0452ED0C-ADCE-4D30-99B1-DDA7A24B83DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsDB.DatabaseContext", "LogsDB.DatabaseContext\LogsDB.DatabaseContext.csproj", "{86D83812-CC8D-408F-9629-CA3D3A4100FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsDB.Importer", "LogsDB.Importer\LogsDB.Importer.csproj", "{CA9FAAE1-0BE5-40E3-88BB-F4BB7D7B394B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsDB.ConsoleClient", "LogsDB.ConsoleClient\LogsDB.ConsoleClient.csproj", "{45F5F5B8-87BA-4F23-9452-9FFC9C7EA303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0452ED0C-ADCE-4D30-99B1-DDA7A24B83DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0452ED0C-ADCE-4D30-99B1-DDA7A24B83DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0452ED0C-ADCE-4D30-99B1-DDA7A24B83DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0452ED0C-ADCE-4D30-99B1-DDA7A24B83DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D83812-CC8D-408F-9629-CA3D3A4100FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D83812-CC8D-408F-9629-CA3D3A4100FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D83812-CC8D-408F-9629-CA3D3A4100FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D83812-CC8D-408F-9629-CA3D3A4100FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA9FAAE1-0BE5-40E3-88BB-F4BB7D7B394B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9FAAE1-0BE5-40E3-88BB-F4BB7D7B394B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9FAAE1-0BE5-40E3-88BB-F4BB7D7B394B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9FAAE1-0BE5-40E3-88BB-F4BB7D7B394B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45F5F5B8-87BA-4F23-9452-9FFC9C7EA303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F5F5B8-87BA-4F23-9452-9FFC9C7EA303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F5F5B8-87BA-4F23-9452-9FFC9C7EA303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F5F5B8-87BA-4F23-9452-9FFC9C7EA303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

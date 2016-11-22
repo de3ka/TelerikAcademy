@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<people>
+  <person>
+    <name>Bruce Wayne</name>
+    <address>Gotham City, "The Batcave"</address>
+    <phone>0887551254</phone>
+  </person>
+  <person>
+    <name>Doctor Doom</name>
+    <address>Latveria, "The Castle Of Doom"</address>
+    <phone>0557512287</phone>
+  </person>
+  <person>
+    <name>Tony Stark</name>
+    <address>New York, "Stark Tower"</address>
+    <phone>0645789231</phone>
+  </person>
+  <person>
+    <name>Professor Xavier</name>
+    <address>Westchester County, "X-Mansion"</address>
+    <phone>0578214562</phone>
+  </person>
+</people>
