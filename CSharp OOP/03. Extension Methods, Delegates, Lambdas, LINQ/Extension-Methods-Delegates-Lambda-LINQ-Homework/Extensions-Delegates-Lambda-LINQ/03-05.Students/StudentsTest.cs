@@ -56,12 +56,12 @@ namespace Extensions_Delegates_Lambda_LINQ._03_05.Students
             {
                 Console.WriteLine(st);
             }
-
         }
 
         private static Student[] StudentArray()
         {
             var students = new Student[10];
+
             students[0] = new Student("Ivan", "Ivanov", 20);
             students[1] = new Student("Petyr", "Petrovv", 12);
             students[2] = new Student("Georgi", "Georgiev", 30);
@@ -72,6 +72,7 @@ namespace Extensions_Delegates_Lambda_LINQ._03_05.Students
             students[7] = new Student("Hristo", "Bratanov", 28);
             students[8] = new Student("Dimityr", "Dimitrov", 22);
             students[9] = new Student("Kostandin", "Kostadinov", 20);
+
             return students;
         }
 
@@ -80,6 +81,7 @@ namespace Extensions_Delegates_Lambda_LINQ._03_05.Students
             var result = students
                 .Where(x => (x.FirstName).CompareTo(x.LastName) < 0)
                 .ToArray();
+
             return result;
         }
     }

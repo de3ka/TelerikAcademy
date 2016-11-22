@@ -13,9 +13,11 @@ namespace Extensions_Delegates_Lambda_LINQ._18_19.GroupedBy
                 .GroupBy(st => st.GroupNumber);
 
             int i = 1;
+
             foreach (var students in groupedStudents)
             {
                 Console.WriteLine("Group {0}", i);
+
                 foreach (var student in students)
                 {
                     if (i == 0)

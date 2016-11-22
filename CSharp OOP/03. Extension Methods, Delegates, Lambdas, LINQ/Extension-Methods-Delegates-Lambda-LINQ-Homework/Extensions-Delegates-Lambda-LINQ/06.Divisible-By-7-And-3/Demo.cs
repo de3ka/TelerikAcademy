@@ -13,7 +13,7 @@ namespace Extensions_Delegates_Lambda_LINQ._06.Divisible_By_7_And_3
             Console.WriteLine("-----Print numbers divisible by 7 & 3 with extension methods & lambda expr-----\n");
 
             arrayOfNumbers.PrintDivisibleBy7And3();
-            
+
             Console.WriteLine("-----Rewrite the same with LINQ-----\n");
 
             var filteredArray =

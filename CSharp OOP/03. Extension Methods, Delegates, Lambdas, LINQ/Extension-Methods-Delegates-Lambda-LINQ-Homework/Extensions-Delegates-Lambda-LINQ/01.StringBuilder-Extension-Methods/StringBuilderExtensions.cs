@@ -11,8 +11,8 @@ namespace Extensions_Delegates_Lambda_LINQ._01.StringBuilder_Extension_Methods
             string forAppend = input.ToString().Substring(index, length);
             input.Clear();
             input.Append(forAppend);
-            return input;
 
+            return input;
         }
 
         public static StringBuilder Substring(this StringBuilder input, int index)
@@ -21,6 +21,7 @@ namespace Extensions_Delegates_Lambda_LINQ._01.StringBuilder_Extension_Methods
             string forAppend = input.ToString().Substring(index);
             input.Clear();
             input.Append(forAppend);
+
             return input;
         }
 

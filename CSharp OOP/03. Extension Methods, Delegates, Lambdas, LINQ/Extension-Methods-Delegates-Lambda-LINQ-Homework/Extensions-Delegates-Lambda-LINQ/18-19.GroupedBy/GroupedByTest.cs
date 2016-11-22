@@ -1,10 +1,10 @@
-﻿namespace Extensions_Delegates_Lambda_LINQ._18_19.GroupedBy
-{
-    using Extensions_Delegates_Lambda_LINQ._09_15.Student_Groups;
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
+﻿using Extensions_Delegates_Lambda_LINQ._09_15.Student_Groups;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
+namespace Extensions_Delegates_Lambda_LINQ._18_19.GroupedBy
+{
     public class GroupedByTest
     {
         public static void Test()
@@ -17,9 +17,11 @@
             var groupedStudents = studentList.GroupBy(st => st.GroupNumber);
 
             int i = 1;
+
             foreach (var students in groupedStudents)
             {
                 Console.WriteLine("Group {0}", i);
+
                 foreach (var student in students)
                 {
                     if (i == 0)

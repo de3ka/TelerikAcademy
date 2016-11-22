@@ -11,6 +11,7 @@ namespace Extensions_Delegates_Lambda_LINQ._02.IEnumerable_Extension_Methods
             Console.WriteLine("-----IEnumerable extentions-----\n");
 
             Console.WriteLine("List containing integers:");
+
             var collection = new List<int>() { 1, -6, 16, 8, 35 };
 
             foreach (var item in collection)
@@ -25,6 +26,7 @@ namespace Extensions_Delegates_Lambda_LINQ._02.IEnumerable_Extension_Methods
             Console.WriteLine("Min element: {0}", collection.Min());
 
             Console.WriteLine("\nArray containing doubles:");
+
             var array = new double[] { 1.1, -6.36, 16.78, 8.79, 35.9 };
 
             foreach (var item in array)

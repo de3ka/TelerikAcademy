@@ -8,7 +8,6 @@ namespace Extensions_Delegates_Lambda_LINQ._09_15.Student_Groups
     {
         public static void Test()
         {
-
             var studentList = Initialize();
 
             Console.WriteLine("\n**********TASK9**********\n");
@@ -46,11 +45,11 @@ namespace Extensions_Delegates_Lambda_LINQ._09_15.Student_Groups
             {
                 Console.WriteLine(student.FirstName + " " + student.LastName + "   email: " + student.Email);
             }
-
-
+            
             Console.WriteLine("\n**********TASK12**********\n");
 
             Console.WriteLine("-----Extract all students with phones in Sofia with LINQ-----\n");
+
             var studentFromSofia = studentList
                 .Where(st => st.PhoneNumber[0] == '0' && st.PhoneNumber[1] == '2')
                 .ToList();
@@ -73,17 +72,16 @@ namespace Extensions_Delegates_Lambda_LINQ._09_15.Student_Groups
                 FullName = studentsWith6.Select(st => st.FirstName + " " + st.LastName),
                 Marks = studentsWith6.Select(st => st.Marks)
             };
-
-
+            
             foreach (var name in anonymousType.FullName)
             {
                 Console.WriteLine(name);
             }
-
-
+            
             Console.WriteLine("\n**********TASK14**********\n");
 
             Console.WriteLine("-----Extract the students with exactly two marks " + @"""2""-----" + "\n");
+
             var weakStudents = studentList.ExtraxtStudentsWithMark2();
 
             foreach (var student in weakStudents)

@@ -8,7 +8,6 @@ namespace Extensions_Delegates_Lambda_LINQ._02.IEnumerable_Extension_Methods
     {
         public static T Sum<T>(this IEnumerable<T> collection) where T : struct, IComparable<T>, IEquatable<T>, IConvertible
         {
-
             dynamic result = 0;
 
             foreach (var element in collection)
@@ -23,7 +22,6 @@ namespace Extensions_Delegates_Lambda_LINQ._02.IEnumerable_Extension_Methods
 
         public static T Product<T>(this IEnumerable<T> collection) where T : struct, IComparable<T>, IEquatable<T>, IConvertible
         {
-
             dynamic result = 1;
 
             foreach (var element in collection)
@@ -31,12 +29,12 @@ namespace Extensions_Delegates_Lambda_LINQ._02.IEnumerable_Extension_Methods
                 dynamic number = element;
                 result *= number;
             }
+
             return result;
         }
 
         public static T Average<T>(this IEnumerable<T> collection) where T : struct, IComparable<T>, IEquatable<T>, IConvertible
         {
-
             dynamic sum = 0;
 
             foreach (var element in collection)
@@ -51,7 +49,6 @@ namespace Extensions_Delegates_Lambda_LINQ._02.IEnumerable_Extension_Methods
 
         public static T Max<T>(this IEnumerable<T> collection) where T : struct, IComparable<T>, IEquatable<T>, IConvertible
         {
-
             dynamic result = collection.ElementAt(0);
 
             foreach (var element in collection)
@@ -63,6 +60,7 @@ namespace Extensions_Delegates_Lambda_LINQ._02.IEnumerable_Extension_Methods
                     result = number;
                 }
             }
+
             return result;
         }
 
@@ -79,6 +77,7 @@ namespace Extensions_Delegates_Lambda_LINQ._02.IEnumerable_Extension_Methods
                     result = number;
                 }
             }
+
             return result;
         }
     }
