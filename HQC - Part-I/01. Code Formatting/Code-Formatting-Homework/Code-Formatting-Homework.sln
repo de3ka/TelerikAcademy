@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-01-Formatting-Bunnies", "Task-01-Formatting-Bunnies\Task-01-Formatting-Bunnies.csproj", "{2A7B527A-46DD-4580-ADCB-DC0948556921}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task-01-Formatting-Events", "Task-01-Formatting-Events\Task-01-Formatting-Events.csproj", "{EDA714AD-84AF-44E3-A2CC-FA3B61FE3B53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A7B527A-46DD-4580-ADCB-DC0948556921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7B527A-46DD-4580-ADCB-DC0948556921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7B527A-46DD-4580-ADCB-DC0948556921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7B527A-46DD-4580-ADCB-DC0948556921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA714AD-84AF-44E3-A2CC-FA3B61FE3B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA714AD-84AF-44E3-A2CC-FA3B61FE3B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA714AD-84AF-44E3-A2CC-FA3B61FE3B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA714AD-84AF-44E3-A2CC-FA3B61FE3B53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QualityMethods", "QualityMethods\QualityMethods.csproj", "{D0068EAB-7AE1-4597-9295-2261999DBF28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPart2.Crypto", "01.Crypto\CSharpPart2.Crypto.csproj", "{D0979704-2478-4025-A4B8-914A79FE128F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0068EAB-7AE1-4597-9295-2261999DBF28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0068EAB-7AE1-4597-9295-2261999DBF28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0068EAB-7AE1-4597-9295-2261999DBF28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0068EAB-7AE1-4597-9295-2261999DBF28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0979704-2478-4025-A4B8-914A79FE128F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0979704-2478-4025-A4B8-914A79FE128F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0979704-2478-4025-A4B8-914A79FE128F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0979704-2478-4025-A4B8-914A79FE128F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
