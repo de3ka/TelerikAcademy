@@ -1,23 +1,23 @@
-﻿namespace OOP_Principles_Part_1
-{
-    using OOP_Principles_Part_1._01.School_Classes.Disciplines;
-    using OOP_Principles_Part_1._01.School_Classes.Interfaces;
-    using OOP_Principles_Part_1._01.School_Classes.People;
-    using OOP_Principles_Part_1._01.School_Classes.SchoolClass;
-    using System;
-    using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using OOP_Principles_Part_1._01.School_Classes.Disciplines;
+using OOP_Principles_Part_1._01.School_Classes.Interfaces;
+using OOP_Principles_Part_1._01.School_Classes.People;
+using OOP_Principles_Part_1._01.School_Classes.SchoolClass;
 
-    class SchoolClassesTest
+namespace OOP_Principles_Part_1
+{
+    public class SchoolClassesTest
     {
         public static void Test()
         {
             Console.WriteLine("**********TASK1**********\n");
+
             Discipline ComputerScience = new Discipline("Computer Science", 20, 2, "Code all day.");
             Discipline Physics = new Discipline("Physics", 10, 2, "Physics makes the world go round.");
             Discipline Mathematics = new Discipline("Mathematics", 30, 3, "2 + 2 = 4");
             Discipline Literature = new Discipline("Literature", 30, 3, "To be or not to be.");
             Discipline English = new Discipline("English", 20, 2, "A is for apple, B is for bee.");
-
 
             Teacher ItTeacher = new Teacher("Doncho", "Donchev", "Hello World!");
             Teacher NaturalScienceTeacher = new Teacher("Albert", "Einstein", "E=mc2");
@@ -25,10 +25,11 @@
 
             NaturalScienceTeacher.AddDiscipline(Mathematics);
             NaturalScienceTeacher.AddDiscipline(Physics);
+
             ItTeacher.AddDiscipline(ComputerScience);
+
             LitTeacher.AddDiscipline(English);
             LitTeacher.AddDiscipline(Literature);
-
 
             Student Pesho = new Student("Petyr", "Nizamov", 1, "Momma's boy");
             Student Mara = new Student("Mariika", "Ivanova", 2, "Pesho's girlfriend");
@@ -42,12 +43,14 @@
 
             FirstGrades.AddTeacher(NaturalScienceTeacher);
             FirstGrades.AddTeacher(LitTeacher);
+
             Seniors.AddTeacher(ItTeacher);
             Seniors.AddTeacher(NaturalScienceTeacher);
 
             FirstGrades.AddStudent(Pesho);
             FirstGrades.AddStudent(Mara);
             FirstGrades.AddStudent(Ivan);
+
             Seniors.AddStudent(Joanna);
             Seniors.AddStudent(Plamen);
             Seniors.AddStudent(Joro);

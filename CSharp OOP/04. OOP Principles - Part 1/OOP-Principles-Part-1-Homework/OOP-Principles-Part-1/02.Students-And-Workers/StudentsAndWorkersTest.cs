@@ -1,16 +1,16 @@
-﻿
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using OOP_Principles_Part_1._02.Students_And_Workers.Humans;
+
 namespace OOP_Principles_Part_1._02.Students_And_Workers
 {
-    using OOP_Principles_Part_1._02.Students_And_Workers.Humans;
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-
     class StudentsAndWorkersTest
     {
         public static void Test()
         {
             Console.WriteLine("\n**********TASK2**********\n");
+
             var students = InitializeStudents();
 
             var sortedStudents = from student in students
@@ -18,18 +18,20 @@ namespace OOP_Principles_Part_1._02.Students_And_Workers
                                  select student;
 
             Console.WriteLine("Students order by grade:");
+
             foreach (var student in sortedStudents)
             {
                 Console.WriteLine(student);
             }
-            Console.WriteLine(new string('-',30));
 
+            Console.WriteLine(new string('-', 30));
 
             var workers = InitializeWorkers();
 
             var sortedWorkers = workers.OrderByDescending(worker => worker.MoneyPerHour()).ThenBy(worker => worker.FirstName);
 
             Console.WriteLine("\nWorers sorted by money per hour:");
+
             foreach (var worker in sortedWorkers)
             {
                 Console.WriteLine(worker);
@@ -50,6 +52,7 @@ namespace OOP_Principles_Part_1._02.Students_And_Workers
                 Console.WriteLine(human);
             }
         }
+
         private static List<Student> InitializeStudents()
         {
             var students = new List<Student>()
@@ -67,6 +70,7 @@ namespace OOP_Principles_Part_1._02.Students_And_Workers
             };
             return students;
         }
+
         private static List<Worker> InitializeWorkers()
         {
             var workers = new List<Worker>()

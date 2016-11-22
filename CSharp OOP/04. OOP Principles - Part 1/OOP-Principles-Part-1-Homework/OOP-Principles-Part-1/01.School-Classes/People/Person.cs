@@ -1,9 +1,8 @@
-﻿
+﻿using System;
+
 namespace OOP_Principles_Part_1._01.School_Classes.People
 {
-    using System;
-
-    public abstract class Person 
+    public abstract class Person
     {
         private string firstName;
         private string familyName;
@@ -13,6 +12,7 @@ namespace OOP_Principles_Part_1._01.School_Classes.People
             this.FirstName = firstName;
             this.FamilyName = familyName;
         }
+
         public string FirstName
         {
             get

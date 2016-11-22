@@ -1,18 +1,17 @@
-﻿namespace OOP_Principles_Part_1._03.Animal_Hierarchy
-{
-    using OOP_Principles_Part_1._03.Animal_Hierarchy.Animals;
-    using OOP_Principles_Part_1._03.Animal_Hierarchy.Enumerations;
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using OOP_Principles_Part_1._03.Animal_Hierarchy.Animals;
+using OOP_Principles_Part_1._03.Animal_Hierarchy.Enumerations;
 
-    class AnimalsTest
+namespace OOP_Principles_Part_1._03.Animal_Hierarchy
+{
+    public class AnimalsTest
     {
         public static void Test()
         {
             Console.WriteLine("\n**********TASK3**********\n");
+
             Cat[] cats = new Cat[]
             {
                 new Cat("Pesho", 2, SexType.male),

@@ -1,7 +1,7 @@
-﻿namespace OOP_Principles_Part_1._02.Students_And_Workers.Humans
-{
-    using System;
+﻿using System;
 
+namespace OOP_Principles_Part_1._02.Students_And_Workers.Humans
+{
     public abstract class Human
     {
         private string firstName;
@@ -15,7 +15,10 @@
 
         public string FirstName
         {
-            get { return this.firstName; }
+            get
+            {
+                return this.firstName;
+            }
             set
             {
                 if (string.IsNullOrEmpty(value))
@@ -28,7 +31,10 @@
 
         public string LastName
         {
-            get { return this.lastName; }
+            get
+            {
+                return this.lastName;
+            }
             set
             {
                 if (string.IsNullOrEmpty(value))

@@ -1,14 +1,13 @@
-﻿namespace OOP_Principles_Part_1._01.School_Classes.SchoolClass
-{
-    using OOP_Principles_Part_1._01.School_Classes.Interfaces;
-    using OOP_Principles_Part_1._01.School_Classes.People;
-    using System;
-    using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using OOP_Principles_Part_1._01.School_Classes.Interfaces;
+using OOP_Principles_Part_1._01.School_Classes.People;
 
-    public class SchoolClass:IComment
+namespace OOP_Principles_Part_1._01.School_Classes.SchoolClass
+{
+    public class SchoolClass : IComment
     {
         internal static List<string> uniqueTextIdentifiers = new List<string>();
-
         private List<Student> students;
         private List<Teacher> teachers;
         private string textIdentifier;
@@ -115,6 +114,5 @@
         {
             return string.Format("Class: {0}\nTeachers:\n{1}\nStudents:\n{2}", this.TextIdentifier, string.Join("\n", this.Teachers), string.Join("\n", this.Students));
         }
-       
     }
 }

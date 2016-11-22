@@ -1,8 +1,8 @@
-﻿namespace OOP_Principles_Part_1._02.Students_And_Workers.Humans
-{
-    using System;
-    using OOP_Principles_Part_1._02.Students_And_Workers.Constants;
+﻿using System;
+using OOP_Principles_Part_1._02.Students_And_Workers.Constants;
 
+namespace OOP_Principles_Part_1._02.Students_And_Workers.Humans
+{
     public class Student : Human
     {
         private double grade;
@@ -15,12 +15,15 @@
 
         public double Grade
         {
-            get { return this.grade; }
+            get
+            {
+                return this.grade;
+            }
             set
             {
-                if (value < Constants.MIN_GRADE || value > Constants.MAX_GRADE)
+                if (value < GlobalConstants.MIN_GRADE || value > GlobalConstants.MAX_GRADE)
                 {
-                    throw new ArgumentOutOfRangeException(String.Format("Grade must be between {0} and {1}!",Constants.MIN_GRADE, Constants.MAX_GRADE));
+                    throw new ArgumentOutOfRangeException(String.Format("Grade must be between {0} and {1}!", GlobalConstants.MIN_GRADE, GlobalConstants.MAX_GRADE));
                 }
                 this.grade = value;
             }

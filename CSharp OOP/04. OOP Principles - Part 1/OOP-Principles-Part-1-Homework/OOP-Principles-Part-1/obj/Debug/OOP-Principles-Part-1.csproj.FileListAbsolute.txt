@@ -1,9 +1,0 @@
-C:\Users\de3kata\Documents\Visual Studio 2013\Projects\OOP-Principles-Part-1-Homework\OOP-Principles-Part-1\bin\Debug\OOP-Principles-Part-1.exe.config
-C:\Users\de3kata\Documents\Visual Studio 2013\Projects\OOP-Principles-Part-1-Homework\OOP-Principles-Part-1\bin\Debug\OOP-Principles-Part-1.exe
-C:\Users\de3kata\Documents\Visual Studio 2013\Projects\OOP-Principles-Part-1-Homework\OOP-Principles-Part-1\bin\Debug\OOP-Principles-Part-1.pdb
-C:\Users\de3kata\Documents\Visual Studio 2013\Projects\OOP-Principles-Part-1-Homework\OOP-Principles-Part-1\obj\Debug\OOP-Principles-Part-1.csprojResolveAssemblyReference.cache
-C:\Users\de3kata\Documents\Visual Studio 2013\Projects\OOP-Principles-Part-1-Homework\OOP-Principles-Part-1\obj\Debug\OOP-Principles-Part-1.exe
-C:\Users\de3kata\Documents\Visual Studio 2013\Projects\OOP-Principles-Part-1-Homework\OOP-Principles-Part-1\obj\Debug\OOP-Principles-Part-1.pdb
-D:\Local Rep\CSharp OOP\04. OOP Principles - Part 1\OOP-Principles-Part-1-Homework\OOP-Principles-Part-1\bin\Debug\OOP-Principles-Part-1.exe.config
-D:\Local Rep\CSharp OOP\04. OOP Principles - Part 1\OOP-Principles-Part-1-Homework\OOP-Principles-Part-1\obj\Debug\OOP-Principles-Part-1.exe
-D:\Local Rep\CSharp OOP\04. OOP Principles - Part 1\OOP-Principles-Part-1-Homework\OOP-Principles-Part-1\obj\Debug\OOP-Principles-Part-1.pdb

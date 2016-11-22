@@ -1,15 +1,12 @@
-﻿using OOP_Principles_Part_1._01.School_Classes.SchoolClass;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using OOP_Principles_Part_1._01.School_Classes.SchoolClass;
 
 namespace OOP_Principles_Part_1
 {
     public class School
     {
-       private List<SchoolClass> schoolClasses;
+        private List<SchoolClass> schoolClasses;
 
         public School()
         {

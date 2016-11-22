@@ -1,7 +1,7 @@
-﻿namespace OOP_Principles_Part_1._02.Students_And_Workers.Humans
-{
-    using System;
+﻿using System;
 
+namespace OOP_Principles_Part_1._02.Students_And_Workers.Humans
+{
     public class Worker : Human
     {
         private decimal weekSalary;
@@ -16,28 +16,32 @@
 
         public decimal WeekSalary
         {
-            get { return this.weekSalary; }
+            get
+            {
+                return this.weekSalary;
+            }
             set
             {
                 if (value < 0)
                 {
                     throw new ArgumentOutOfRangeException("Salary cannot be negative");
                 }
-
                 this.weekSalary = value;
             }
         }
 
         public int WorkHoursPerDay
         {
-            get { return this.workHoursPerDay; }
+            get
+            {
+                return this.workHoursPerDay;
+            }
             set
             {
                 if (value < 0)
                 {
                     throw new ArgumentOutOfRangeException("Salary cannot be negative");
                 }
-
                 this.workHoursPerDay = value;
             }
         }

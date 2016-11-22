@@ -1,9 +1,9 @@
-﻿namespace OOP_Principles_Part_1._01.School_Classes.People
-{
-    using OOP_Principles_Part_1._01.School_Classes.Disciplines;
-    using OOP_Principles_Part_1._01.School_Classes.Interfaces;
-    using System.Collections.Generic;
+﻿using System.Collections.Generic;
+using OOP_Principles_Part_1._01.School_Classes.Disciplines;
+using OOP_Principles_Part_1._01.School_Classes.Interfaces;
 
+namespace OOP_Principles_Part_1._01.School_Classes.People
+{
     public class Teacher : Person, IComment
     {
         private List<Discipline> disciplines;
@@ -47,6 +47,5 @@
         {
             return string.Format("Teacher Name: {0} {1}\nTeaches Disciplines: {2}", this.FirstName, this.FamilyName, string.Join(", ", this.Disciplines));
         }
-       
     }
 }

@@ -1,12 +1,11 @@
-﻿
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using OOP_Principles_Part_1._03.Animal_Hierarchy.Enumerations;
+using OOP_Principles_Part_1._03.Animal_Hierarchy.Interfaces;
 
 namespace OOP_Principles_Part_1._03.Animal_Hierarchy.Animals
 {
-    using OOP_Principles_Part_1._03.Animal_Hierarchy.Enumerations;
-    using OOP_Principles_Part_1._03.Animal_Hierarchy.Interfaces;
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
     public abstract class Animal : ISound
     {
         private int age;
@@ -22,7 +21,10 @@ namespace OOP_Principles_Part_1._03.Animal_Hierarchy.Animals
 
         public int Age
         {
-            get { return this.age; }
+            get
+            {
+                return this.age;
+            }
             set
             {
                 if (value < 0)
@@ -36,7 +38,10 @@ namespace OOP_Principles_Part_1._03.Animal_Hierarchy.Animals
 
         public string Name
         {
-            get { return this.name; }
+            get
+            {
+                return this.name;
+            }
             set
             {
                 if (string.IsNullOrEmpty(value))
