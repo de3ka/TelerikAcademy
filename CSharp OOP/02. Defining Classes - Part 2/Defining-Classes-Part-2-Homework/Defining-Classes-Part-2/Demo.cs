@@ -26,14 +26,17 @@ namespace Defining_Classes_Part_2
             Console.WriteLine("\n**********TASK3**********\n");
 
             Console.WriteLine("-----POINT ONE COORDINATES-----");
+
             Point3D p1 = new Point3D(8, 6, 4);
             Console.WriteLine(p1.ToString());
 
             Console.WriteLine("-----POINT TWO COORDINATES-----");
+
             Point3D p2 = new Point3D(2, 3.4, 0);
             Console.WriteLine(p2.ToString());
 
             Console.WriteLine("-----THE DISTANCE BETWEEN TWO POINTS-----");
+
             var distance = CalculateDistanceBetween2Points.DistansBetweenTowPoints(p1, p2);
             Console.WriteLine("{0}", distance);
 
@@ -46,10 +49,12 @@ namespace Defining_Classes_Part_2
             path.AddPoint(new Point3D(1, 2, 0));
 
             Console.WriteLine("-----SAVING POINTS COORDINATES TO FILE-----");
-            PathStorage.SavePath(path, "file");
 
+            PathStorage.SavePath(path, "file");
             Path loadedPath = PathStorage.LoadPath("file");
+
             Console.WriteLine("-----LOADING POINTS COORDINATES FROM FILE-----");
+
             foreach (var item in loadedPath.PointList)
             {
                 Console.WriteLine(item);
@@ -69,6 +74,7 @@ namespace Defining_Classes_Part_2
 
             Console.WriteLine("---REMOVING ELEMENT FROM THE LIST---");
             Console.WriteLine("Element value: {0}\nRemoved from position: {1}", genericList[0], 0);
+
             genericList.RemoveElementByIndex(0);
             Console.WriteLine("{0}", genericList.ToString());
 
@@ -80,6 +86,7 @@ namespace Defining_Classes_Part_2
             genericList.AddElement(1);
             genericList.AddElement(2);
             genericList.AddElement(3);
+
             Console.WriteLine("Element's index is: {0}", genericList.FindElementByItsValue(100));
             Console.WriteLine("Element value is: {0}\n", genericList[0]);
             Console.WriteLine("Element's index is: {0}", genericList.FindElementByItsValue(11));
@@ -88,8 +95,7 @@ namespace Defining_Classes_Part_2
 
             genericList.ClearAllElements();
             Console.WriteLine("{0}", genericList.ToString());
-
-
+            
             Console.WriteLine("**********TASK6**********\n");
 
             Console.WriteLine("---THE LIST IS GROWING AUTOMATICALY---");
@@ -101,6 +107,7 @@ namespace Defining_Classes_Part_2
             genericList.AddElement(2);
             genericList.AddElement(3);
             genericList.AddElement(231);
+
             Console.WriteLine("{0}", genericList.ToString());
             Console.WriteLine("{0}", genericList.Min());
             Console.WriteLine("{0}", genericList.Max());
@@ -112,13 +119,16 @@ namespace Defining_Classes_Part_2
             matrix1[0, 1] = 2;
             matrix1[1, 0] = 3;
             matrix1[1, 1] = 15;
+
             Console.WriteLine("-----MATRIX 1-----");
             Console.WriteLine(matrix1.ToString());
+
             Matrix<int> matrix2 = new Matrix<int>(2, 2);
             matrix2[0, 0] = 6;
             matrix2[0, 1] = 7;
             matrix2[1, 0] = -5;
             matrix2[1, 1] = 0;
+
             Console.WriteLine("-----MATRIX 2-----");
             Console.WriteLine(matrix2.ToString());
 
@@ -134,12 +144,16 @@ namespace Defining_Classes_Part_2
 
             Console.WriteLine("-----MATRIX 1 + MATRIX 2-----");
             Console.WriteLine(matrix1 + matrix2);
+
             Console.WriteLine("-----MATRIX 1 - MATRIX 2-----");
             Console.WriteLine(matrix1 - matrix2);
+
             Console.WriteLine("-----MATRIX 1 * MATRIX 2-----");
             Console.WriteLine(matrix1 * matrix2);
+
             Console.WriteLine("-----CHECKING FOR TRUE/FALSE IN MATRIX 1-----");
             Console.WriteLine("(If there is zero in the matrix the result is False)");
+
             if (matrix1)
             {
                 Console.WriteLine("True");
@@ -148,8 +162,10 @@ namespace Defining_Classes_Part_2
             {
                 Console.WriteLine("False");
             }
+
             Console.WriteLine("-----CHECKING FOR TRUE/FALSE IN MATRIX 2-----");
             Console.WriteLine("(If there is zero in the matrix the result is False)");
+
             if (matrix2)
             {
                 Console.WriteLine("True");
@@ -158,6 +174,7 @@ namespace Defining_Classes_Part_2
             {
                 Console.WriteLine("False");
             }
+
             Console.WriteLine("\n**********TASK11**********\n");
 
             var type = typeof(Demo);

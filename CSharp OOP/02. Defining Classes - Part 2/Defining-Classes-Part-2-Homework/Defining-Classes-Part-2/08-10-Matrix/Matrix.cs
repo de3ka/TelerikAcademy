@@ -2,8 +2,7 @@
 
 namespace Defining_Classes_Part_2._08_10_Matrix
 {
-    public class Matrix<T>
-        where T : IComparable
+    public class Matrix<T> where T : IComparable
     {
         private T[,] matrix;
         private int rows;
@@ -92,12 +91,13 @@ namespace Defining_Classes_Part_2._08_10_Matrix
         public static Matrix<T> operator +(Matrix<T> firstMatrix, Matrix<T> secondMatrix)
         {
             if (firstMatrix.matrix.GetLength(0) != secondMatrix.matrix.GetLength(0) ||
-           firstMatrix.matrix.GetLength(1) != secondMatrix.matrix.GetLength(1))
+                firstMatrix.matrix.GetLength(1) != secondMatrix.matrix.GetLength(1))
             {
                 throw new ArgumentException("The two matrixes must have same size!");
             }
 
             Matrix<T> resultMatrix = new Matrix<T>(firstMatrix.Rows, firstMatrix.Columns);
+
             for (int row = 0; row < firstMatrix.Rows; row++)
             {
                 for (int col = 0; col < firstMatrix.Columns; col++)
@@ -105,18 +105,20 @@ namespace Defining_Classes_Part_2._08_10_Matrix
                     resultMatrix[row, col] = (dynamic)firstMatrix[row, col] + (dynamic)secondMatrix[row, col];
                 }
             }
+
             return resultMatrix;
         }
 
         public static Matrix<T> operator -(Matrix<T> firstMatrix, Matrix<T> secondMatrix)
         {
             if (firstMatrix.matrix.GetLength(0) != secondMatrix.matrix.GetLength(0) ||
-           firstMatrix.matrix.GetLength(1) != secondMatrix.matrix.GetLength(1))
+                firstMatrix.matrix.GetLength(1) != secondMatrix.matrix.GetLength(1))
             {
                 throw new ArgumentException("The two matrixes must have same size!");
             }
 
             Matrix<T> resultMatrix = new Matrix<T>(firstMatrix.Rows, firstMatrix.Columns);
+
             for (int row = 0; row < firstMatrix.Rows; row++)
             {
                 for (int col = 0; col < firstMatrix.Columns; col++)
@@ -147,6 +149,7 @@ namespace Defining_Classes_Part_2._08_10_Matrix
                     }
                 }
             }
+
             return resultMatrix;
         }
 
@@ -182,6 +185,7 @@ namespace Defining_Classes_Part_2._08_10_Matrix
                     }
                 }
             }
+
             return !isTrue;
         }
 
@@ -201,6 +205,7 @@ namespace Defining_Classes_Part_2._08_10_Matrix
                 }
                 result += "\n";
             }
+
             return result;
         }
     }

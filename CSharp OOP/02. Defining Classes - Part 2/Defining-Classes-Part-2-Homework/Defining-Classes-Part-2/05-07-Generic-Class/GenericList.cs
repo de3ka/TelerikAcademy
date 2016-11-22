@@ -110,6 +110,7 @@ namespace Defining_Classes_Part_2._05_07_Generic_Class
             var oldElements = this.array;
             this.array = new T[Capacity];
             int arrIndex = 0;
+
             for (int i = 0; i < this.Count; i++)
             {
                 if (i != index)
@@ -118,18 +119,21 @@ namespace Defining_Classes_Part_2._05_07_Generic_Class
                     arrIndex++;
                 }
             }
+
             this.Count--;
         }
 
         public void InsertElementAtPosition(int position, T item)
         {
             Console.WriteLine("---INSERTING ELEMENT TO THE LIST---");
+
             if (position > this.Count || position < 0)
             {
                 throw new ArgumentOutOfRangeException("Index is out of range!");
             }
 
             this.Count++;
+
             if (Count >= this.Capacity)
             {
                 DoubleSizeOfArray();
@@ -139,6 +143,7 @@ namespace Defining_Classes_Part_2._05_07_Generic_Class
             this.array = new T[Capacity];
             int arrIndex = 0;
             int copyIndex = 0;
+
             for (int i = 0; i < this.Count; i++)
             {
                 if (i != position)
@@ -161,19 +166,23 @@ namespace Defining_Classes_Part_2._05_07_Generic_Class
             this.Capacity = DefaultCapacity;
             this.array = new T[this.Capacity];
             this.Count = 0;
+
             Console.WriteLine("List is now empty!");
         }
 
         public int FindElementByItsValue(T item)
         {
             Console.WriteLine("-----FIND ELEMENT BY IT'S VALUE-----");
+
             for (int i = 0; i < this.Count; i++)
             {
                 if (array[i].CompareTo(item) == 0)
                 {
+
                     return i;
                 }
             }
+
             return -1;
         }
 
@@ -182,6 +191,7 @@ namespace Defining_Classes_Part_2._05_07_Generic_Class
             var oldElements = this.array;
             this.Capacity *= 2;
             this.array = new T[Capacity];
+
             Array.Copy(oldElements, this.array, this.Count);
         }
 
@@ -189,6 +199,7 @@ namespace Defining_Classes_Part_2._05_07_Generic_Class
         {
             Console.WriteLine("-----MIN ELEMENT FROM THE LIST-----");
             T minElement = array[0];
+
             for (int i = 0; i < this.Count; i++)
             {
                 if (minElement.CompareTo(array[i]) > 0)
@@ -196,6 +207,7 @@ namespace Defining_Classes_Part_2._05_07_Generic_Class
                     minElement = array[i];
                 }
             }
+
             return minElement;
         }
 
@@ -203,6 +215,7 @@ namespace Defining_Classes_Part_2._05_07_Generic_Class
         {
             Console.WriteLine("-----MAX ELEMENT FROM THE LIST-----");
             T maxElement = array[0];
+
             for (int i = 0; i < this.Count; i++)
             {
                 if (maxElement.CompareTo(array[i]) < 0)
@@ -210,6 +223,7 @@ namespace Defining_Classes_Part_2._05_07_Generic_Class
                     maxElement = array[i];
                 }
             }
+
             return maxElement;
         }
 
@@ -217,6 +231,7 @@ namespace Defining_Classes_Part_2._05_07_Generic_Class
         {
             string message = "Current List Members: ";
             string resultString = String.Empty;
+
             for (int i = 0; i < this.Count; i++)
             {
                 resultString += array[i];
@@ -225,6 +240,7 @@ namespace Defining_Classes_Part_2._05_07_Generic_Class
                     resultString += " ";
                 }
             }
+
             return message + resultString + "\n";
         }
     }
