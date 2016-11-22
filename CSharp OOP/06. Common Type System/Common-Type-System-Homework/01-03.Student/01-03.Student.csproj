@@ -41,10 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="01.Student\Enumerations\FacultyType.cs" />
-    <Compile Include="01.Student\Enumerations\SpecialtyType.cs" />
-    <Compile Include="01.Student\Enumerations\UniversityType.cs" />
-    <Compile Include="01.Student\StudentModel\Student.cs" />
+    <Compile Include="01.Students\Enumerations\FacultyType.cs" />
+    <Compile Include="01.Students\Enumerations\SpecialtyType.cs" />
+    <Compile Include="01.Students\Enumerations\UniversityType.cs" />
+    <Compile Include="01.Students\StudentsModel\StudentModel.cs" />
     <Compile Include="Demo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

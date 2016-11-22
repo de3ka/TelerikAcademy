@@ -1,8 +1,7 @@
-﻿
+﻿using System.Collections.Generic;
+
 namespace _05._64_Bit_Array
 {
-    using System.Collections.Generic;
-
     public class _64BitArray : IEnumerable<int>
     {
         private int[] bits;
@@ -74,14 +73,12 @@ namespace _05._64_Bit_Array
             int hashMultiplier = 101;
 
             return (hashDat * hashMultiplier + bits.GetHashCode()) ^ DecimalValue.GetHashCode();
-
         }
 
         public override string ToString()
         {
             return string.Join(string.Empty, bits);
         }
-
 
         public IEnumerator<int> GetEnumerator()
         {

@@ -1,9 +1,9 @@
-﻿
-namespace _04.Person
+﻿namespace _04.Person
 {
     public class Person
     {
         public string Name { get; private set; }
+
         public byte? Age { get; private set; }
 
         public Person(string name, byte? age = null)
