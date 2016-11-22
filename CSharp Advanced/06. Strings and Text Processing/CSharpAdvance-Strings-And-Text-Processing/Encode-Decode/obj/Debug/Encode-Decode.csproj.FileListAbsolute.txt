@@ -1,1 +1,0 @@
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Encode-Decode\bin\Debug\Encode-Decode.exe.config

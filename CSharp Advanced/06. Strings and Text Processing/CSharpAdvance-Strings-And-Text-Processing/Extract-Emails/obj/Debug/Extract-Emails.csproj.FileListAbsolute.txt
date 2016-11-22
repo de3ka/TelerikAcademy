@@ -1,6 +1,0 @@
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Extract-Emails\bin\Debug\Extract-Emails.exe.config
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Extract-Emails\bin\Debug\Extract-Emails.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Extract-Emails\bin\Debug\Extract-Emails.pdb
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Extract-Emails\obj\Debug\Extract-Emails.csprojResolveAssemblyReference.cache
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Extract-Emails\obj\Debug\Extract-Emails.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Extract-Emails\obj\Debug\Extract-Emails.pdb

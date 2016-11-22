@@ -1,5 +1,0 @@
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Using-Classes-And-Objects\Random-Numbers\bin\Debug\Random-Numbers.exe.config
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Using-Classes-And-Objects\Random-Numbers\bin\Debug\Random-Numbers.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Using-Classes-And-Objects\Random-Numbers\bin\Debug\Random-Numbers.pdb
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Using-Classes-And-Objects\Random-Numbers\obj\Debug\Random-Numbers.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Using-Classes-And-Objects\Random-Numbers\obj\Debug\Random-Numbers.pdb

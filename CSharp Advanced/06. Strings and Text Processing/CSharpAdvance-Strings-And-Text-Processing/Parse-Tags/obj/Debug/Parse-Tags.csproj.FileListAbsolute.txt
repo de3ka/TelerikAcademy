@@ -1,5 +1,0 @@
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Parse-Tags\bin\Debug\Parse-Tags.exe.config
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Parse-Tags\bin\Debug\Parse-Tags.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Parse-Tags\bin\Debug\Parse-Tags.pdb
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Parse-Tags\obj\Debug\Parse-Tags.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Parse-Tags\obj\Debug\Parse-Tags.pdb

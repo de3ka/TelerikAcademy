@@ -1,5 +1,0 @@
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Substring-In-Text\bin\Debug\Substring-In-Text.exe.config
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Substring-In-Text\bin\Debug\Substring-In-Text.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Substring-In-Text\bin\Debug\Substring-In-Text.pdb
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Substring-In-Text\obj\Debug\Substring-In-Text.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Substring-In-Text\obj\Debug\Substring-In-Text.pdb

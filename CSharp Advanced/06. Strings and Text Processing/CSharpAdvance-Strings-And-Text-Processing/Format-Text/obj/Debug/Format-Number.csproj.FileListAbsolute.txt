@@ -1,5 +1,0 @@
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Format-Text\bin\Debug\Format-Text.exe.config
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Format-Text\bin\Debug\Format-Text.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Format-Text\bin\Debug\Format-Text.pdb
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Format-Text\obj\Debug\Format-Text.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Format-Text\obj\Debug\Format-Text.pdb

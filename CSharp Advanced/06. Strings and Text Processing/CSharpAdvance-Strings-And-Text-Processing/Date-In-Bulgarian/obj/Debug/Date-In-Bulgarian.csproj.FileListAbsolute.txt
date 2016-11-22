@@ -1,5 +1,0 @@
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Date-In-Bulgarian\bin\Debug\Date-In-Bulgarian.exe.config
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Date-In-Bulgarian\bin\Debug\Date-In-Bulgarian.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Date-In-Bulgarian\bin\Debug\Date-In-Bulgarian.pdb
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Date-In-Bulgarian\obj\Debug\Date-In-Bulgarian.exe
-c:\users\de3kata\documents\visual studio 2013\Projects\CSharpAdvance-Strings-And-Text-Processing\Date-In-Bulgarian\obj\Debug\Date-In-Bulgarian.pdb
