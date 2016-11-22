@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>LinkedIn</title>
+    <meta charset="UTF-8">
+    <style>
+        #mainHeader {
+            border-bottom-style: solid;
+            border-width: 2px;
+            border-color: #909090;
+        }
+
+        fieldset {
+            border-style: solid;
+            border-width: 1px;
+            border-color: #F0F0F0;
+        }
+
+        input.button {
+            -webkit-border-radius: 5px;
+            background-color: #E8E8E8;
+        }
+    </style>
+</head>
+
+<body>
+    <header id="mainHeader">
+        <h1>
+                <a href="#">
+                    LinkedIn
+                </a>
+            </h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#">
+                            Home
+                        </a>
+                </li>
+                <li>
+                    <a href="#">
+                            What is LinkedIn?
+                        </a>
+                </li>
+                <li>
+                    <a href="#">
+                            Join Today
+                        </a>
+                </li>
+                <li>
+                    <fieldset>
+                        <legend>Sign In</legend>
+                        <form action="#" method="POST">
+                            <ul type="circle">
+                                <li>
+                                    <label for="email">
+                                        Email:
+                                    </label>
+                                    <input type="email" id="email" name="email" />
+                                </li>
+                                <li>
+                                    <label for="password">
+                                        Password:
+                                    </label>
+                                    <input type="password" id="password" name="password" />
+                                </li>
+                                <li>
+                                    <input type="submit" name="signIn" value="Sign In" class="button" />
+                                </li>
+                            </ul>
+                        </form>
+                    </fieldset>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <header>
+            <h2>
+                    Over 175 million professionals use LinkedIn to exchange information, ideas and opportunities
+                </h2>
+        </header>
+        <ul>
+            <li>
+                Stay informed about your contact and industry
+            </li>
+            <li>
+                Find the people &amp; knowledge you need to achieve your goals
+            </li>
+            <li>
+                Control your professional identity online
+            </li>
+        </ul>
+    </section>
+    <section>
+        <header>
+            <h3>
+                    Join LinkedIn Today
+                </h3>
+        </header>
+        <fieldset>
+            <legend>Sign Up</legend>
+            <form action="#" method="POST">
+                <ul>
+                    <li>
+                        <label for="FirstName">
+                            First Name:
+                        </label>
+                        <br/>
+                        <input type="text" id="FirstName" name="FirstName" />
+                    </li>
+                    <li>
+                        <label for="LastName">
+                            Last Name:
+                        </label>
+                        <br/>
+                        <input type="text" id="LastName" name="LastName" />
+                    </li>
+                    <li>
+                        <label for="emailJoin">
+                            Email:
+                        </label>
+                        <br/>
+                        <input type="email" id="emailJoin" name="emailJoin" />
+                    </li>
+                    <li>
+                        <label for="passwordJoin">
+                            Password:
+                        </label>
+                        <br/>
+                        <input type="password" id="passwordJoin" name="passwordJoin" />
+                        <br/> 6 or more characters
+                    </li>
+                </ul>
+                <input type="submit" name="Join" value="Join Now" class="button" />
+                <a href="#">*</a>
+            </form>
+            <p>Already on LinkedIn?
+                <a href="#">
+                        Sign in.
+                    </a>
+            </p>
+        </fieldset>
+    </section>
+    <section>
+        <header>
+            <h3>
+                    Search for someone by name:
+                </h3>
+        </header>
+        <form action="#" method="POST">
+            <ul>
+                <li>
+                    <label for="FirstNameSearch">
+                        First Name:
+                    </label>
+                    <input type="text" id="FirstNameSearch" placeholder="First Name" name="FirstName1" />
+                </li>
+                <li>
+                    <label for="LastNameSearch">
+                        Last Name:
+                    </label>
+                    <input type="text" id="LastNameSearch" placeholder="Last Name" name="LastName1" />
+                </li>
+            </ul>
+            <input type="submit" name="Go" value="Go" class="button" />
+        </form>
+    </section>
+</body>
+
+</html>

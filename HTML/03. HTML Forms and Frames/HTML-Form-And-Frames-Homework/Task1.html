@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Form</title>
+    <meta charset="euc-kr">
+    <style>
+        td.leftcolumn {
+            text-align: right;
+        }
+
+        td.center {
+            text-align: center;
+            background-color: lightblue;
+        }
+
+        table,
+        td {
+            border: 1px solid;
+        }
+
+        #gender {
+            width: 70px;
+        }
+
+        #country {
+            width: 150px;
+        }
+
+        #firstColumn {
+            width: 100px;
+        }
+    </style>
+</head>
+
+<body>
+    <section>
+        <form action="#" method="POST">
+            <table cellpadding="3" cellspacing="0">
+                <colgroup>
+                    <col span="1" id="firstColumn">
+                    <col span="3">
+                </colgroup>
+                <tfoot>
+                    <tr>
+                        <td colspan="4" class="center">
+                            <input type="submit" name="Email" value="Submit" />
+                            <input type="reset" name="Reset" value="Clear this form" />
+                        </td>
+                    </tr>
+                </tfoot>
+                <tbody>
+                    <tr>
+                        <td class="leftcolumn">
+                            <strong>
+                                    Last name
+                                </strong>
+                        </td>
+                        <td colspan="3">
+                            <input type="text" name="Last name" value="Nakov" size="45" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="leftcolumn">
+                            <strong>
+                                    First name
+                                </strong>
+                        </td>
+                        <td colspan="3">
+                            <input type="text" name="First name" value="Svetlin" size="45" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="leftcolumn">
+                            <strong>
+                                    Address
+                                </strong>
+                        </td>
+                        <td colspan="3">
+                            <textarea name="Address" rows="4" cols="30">17 Hristo Botev Str. Floor 3, Ap. 12</textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="leftcolumn">
+                            <strong>
+                                    City
+                                </strong>
+                        </td>
+                        <td>
+                            <input type="text" name="City" value="Kaspichan" size="30" />
+                        </td>
+                        <td>
+                            <strong>
+                                    State
+                                </strong>
+                        </td>
+                        <td>
+                            <input type="text" name="State" size="4" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="leftcolumn">
+                            <strong>
+                                    Zip/Postal Code
+                                </strong>
+                        </td>
+                        <td colspan="3">
+                            <input type="text" name="Zip/Postal code" value="9325" size="10" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="leftcolumn">
+                            <strong>
+                                    Country
+                                </strong>
+                        </td>
+                        <td colspan="3">
+                            <select name="Country" id="country">
+                                <option value="Value 1" selected="selected">Bulgaria</option>
+                                <option value="Value 2">England</option>
+                                <option value="Value 3">United States</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td id="Phone" class="leftcolumn">
+                            <strong>
+                                    Phone(country code, area code, number)
+                                </strong>
+                        </td>
+                        <td colspan="3">
+                            (+
+                            <input type="text" name="Country code" value="359" size="4" /> )
+                            <input type="text" name="Area code" value="88" size="4" /> -
+                            <input type="text" name="Number" value="8334343" size="12" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="leftcolumn">
+                            <strong>
+                                    Email
+                                </strong>
+                        </td>
+                        <td colspan="3">
+                            <input type="text" name="Email" value="nakov@kaspichan.org" size="45" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="leftcolumn">
+                            <strong>
+                                    Birth date
+                                </strong>
+                        </td>
+                        <td colspan="3">
+                            Month
+                            <input type="text" name="Month" value="06" size="1" /> Day
+                            <input type="text" name="Day" value="14" size="1" /> Year (4 digit)
+                            <input type="text" name="Year" value="1980" size="2" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="leftcolumn">
+                            <strong>
+                                    Gender
+                                </strong>
+                        </td>
+                        <td colspan="3">
+                            <select name="Gender" id="gender">
+                                <option value="Value 1" selected="selected">Male</option>
+                                <option value="Value 2">Female</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="leftcolumn">
+                            <strong>
+                                    Starting date
+                                </strong>
+                        </td>
+                        <td colspan="3">
+                            <input type="radio" name="Starting date" value="1" /> Spring 2006
+                            <input type="radio" name="Starting date" value="2" /> Summer 2006
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="leftcolumn">
+                            <strong>
+                                    Comments/Questions
+                            </strong>
+                        </td>
+                        <td colspan="3">
+                            <textarea name="Questions" rows="4" cols="30">Please send me more information about the lodging.</textarea>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </form>
+    </section>
+</body>
+
+</html>
