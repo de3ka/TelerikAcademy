@@ -1,0 +1,57 @@
+.main {
+	background-color: #ddd;
+	display: inline-block;
+	border-radius: 5px;
+	padding: 10px 15px;
+	width: 480px;
+  height: 510px;
+}
+
+header {
+ 	font-size: 18px;
+ 	letter-spacing: -1px;
+ }
+
+.inner {
+	border-style: solid;
+	border-width: 1px;
+	border-color: #bbb;
+	background-color: white;
+	display: inline-block;
+	padding: 15px 15px;
+	margin-top: 30px;
+	width: 450px;
+}
+
+.image {
+	float: left;
+}
+
+img {
+	outline-style: solid;
+    outline-width: 1px;
+    outline-color: #bbb;
+}
+
+.text {
+	font-size: 15px;
+	margin-left: 155px;
+	width: 250px;
+	height: 60px;
+}
+
+span {
+	font-weight: bold;
+}
+
+.buttons {
+	float: right;
+	margin: 5px 5px;
+}
+
+input[type="button"] {
+	background: transparent;
+	background-image: url("../img/button.png");
+	padding: 2px 15px;
+	color: white;
+}

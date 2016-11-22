@@ -1,0 +1,96 @@
+body {
+	font-family: Candara;
+}
+
+.window {
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 5px;
+	outline-offset: -3px;
+	outline-style: solid;
+	outline-color: #777;
+	outline-width: 1px;
+	display: inline-block;
+	padding: 5px;
+}
+
+h1 {
+	text-align: center;
+}
+
+a {
+	color: #0af;
+}
+
+hr {
+	position: relative;
+	border: none;
+	box-shadow: 0px 0px 1px #000;
+	bottom: 20px;
+	width: 760px;
+	margin: 0px 10px;
+	background: #000;
+	height: 2px;
+}
+
+.panel {
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 2px;
+	outline-offset: -3px;
+	outline-style: solid;
+	outline-color: #777;
+	outline-width: 1px;
+	padding: 5px;
+	float: left;
+}
+
+legend {
+	background-color: #fff;
+}
+
+fieldset {
+	border-style: solid;
+	border-color: #000;
+	border-radius: 2px;
+	margin-right: 8px;
+	font-weight: 600;
+	font-size: 20px;
+	height: 160px;
+}
+
+fieldset:nth-child(odd) {	
+	float: left;
+}
+
+img {
+	width: 140px;
+	height: 100px;
+	margin-left: -10px;
+	margin-top: -20px;
+	float: left;
+}
+
+.panel p:nth-of-type(1) {
+	float: left;
+	margin-top: 10px;
+}
+
+.panel p span {
+	padding-left: 25px;
+}
+
+.sliders {
+	float: left;
+	margin: 50px 10px;
+	text-align: center;
+}
+
+.sliders p {
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.sliders input[type="range"] {
+}
