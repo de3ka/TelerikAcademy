@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E2C8AAFD-71FA-41F3-9D34-03461E72E722}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OOP_Principles_Part_1</RootNamespace>
+    <AssemblyName>OOP-Principles-Part-1</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="01.School-Classes\Constants\Constants.cs" />
+    <Compile Include="01.School-Classes\SchoolClassesTest.cs" />
+    <Compile Include="01.School-Classes\Disciplines\Discipline.cs" />
+    <Compile Include="01.School-Classes\Interfaces\IComment.cs" />
+    <Compile Include="01.School-Classes\People\Person.cs" />
+    <Compile Include="01.School-Classes\People\Student.cs" />
+    <Compile Include="01.School-Classes\People\Teacher.cs" />
+    <Compile Include="01.School-Classes\School.cs" />
+    <Compile Include="01.School-Classes\SchoolClass\SchoolClass.cs" />
+    <Compile Include="02.Students-And-Workers\Constants\Constants.cs" />
+    <Compile Include="02.Students-And-Workers\StudentsAndWorkersTest.cs" />
+    <Compile Include="02.Students-And-Workers\Humans\Human.cs" />
+    <Compile Include="02.Students-And-Workers\Humans\Student.cs" />
+    <Compile Include="02.Students-And-Workers\Humans\Worker.cs" />
+    <Compile Include="03.Animal-Hierarchy\AnimalsTest.cs" />
+    <Compile Include="03.Animal-Hierarchy\Animals\Animal.cs" />
+    <Compile Include="03.Animal-Hierarchy\Animals\Cat.cs" />
+    <Compile Include="03.Animal-Hierarchy\Animals\Dog.cs" />
+    <Compile Include="03.Animal-Hierarchy\Animals\Frog.cs" />
+    <Compile Include="03.Animal-Hierarchy\Animals\Kitten.cs" />
+    <Compile Include="03.Animal-Hierarchy\Animals\Tomcat.cs" />
+    <Compile Include="03.Animal-Hierarchy\Enumerations\SexType.cs" />
+    <Compile Include="03.Animal-Hierarchy\Interfaces\ISound.cs" />
+    <Compile Include="Demo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
